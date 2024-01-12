@@ -1,2 +1,3 @@
 # Hangman
-Hangman game
+GH PAGES:
+https://imseptember.github.io/Hangman/
